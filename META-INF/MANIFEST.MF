@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-Name: FontAwesome Free - SVG Kit
+Bundle-SymbolicName: fontawesome
+Package-Type: Web-Service
+Bundle-Version: 5.13.0
+
