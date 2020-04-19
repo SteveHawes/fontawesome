@@ -4,3 +4,6 @@ Bundle-SymbolicName: fontawesome
 Package-Type: Web-Service
 Bundle-Version: 5.13.0
 
+Name: lib/lib.spec
+Web-Service: True
+
