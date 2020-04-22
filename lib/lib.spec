@@ -16,6 +16,13 @@
  	{
 	   	"load": 
 	   	{
+	   		"parameters": [
+	   			{
+	   				"name": "kitIdentifier",
+	   				"type": "string",
+	   				"optional": true
+	   			}
+	   		]
 		}
  	}
 }
