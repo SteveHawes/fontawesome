@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
-Bundle-Name: FontAwesome Free - SVG Kit
-Bundle-SymbolicName: fontawesome
+Bundle-Name: FontAwesome - SVG Kit
+Bundle-SymbolicName: fontawesomekit
 Package-Type: Web-Service
-Bundle-Version: 5.13.0
+Bundle-Version: 1.0.0
 
 Name: lib/lib.spec
 Web-Service: True
