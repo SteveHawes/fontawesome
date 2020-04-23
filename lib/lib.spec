@@ -6,7 +6,7 @@
 	"libraries": [
 		{
 			"name": "fontawesomekit-svg",
-			"version": "5.13.0",
+			"version": "1.0.0",
 			"url": "https://kit.fontawesome.com/8c0a8876ae.js",
 			"mimetype": "text/javascript",
 			"group": false
